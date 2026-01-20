@@ -1,0 +1,38 @@
+@startuml
+annotation java.lang.Override
+annotation java.lang.SuppressWarnings
+class java.io.FileWriter
+class java.io.IOException
+class java.util.ArrayList
+class javax.swing.JFrame
+class pharmacy.AddMedicineForm
+class pharmacy.DeleteMedicineForm
+class pharmacy.JFrame
+class pharmacy.Main
+class pharmacy.MedicalDevice
+class pharmacy.Medicamo
+class pharmacy.MyFirstForm
+class pharmacy.OintmentMedcine
+class pharmacy.Pharmacy
+class pharmacy.SyrupMedicine
+class pharmacy.TabelMedicine
+class pharmacy.search
+pharmacy.AddMedicineForm ..> java.io.FileWriter
+pharmacy.AddMedicineForm ..> java.io.IOException
+pharmacy.AddMedicineForm --|> pharmacy.JFrame
+pharmacy.DeleteMedicineForm ..> java.io.FileWriter
+pharmacy.DeleteMedicineForm ..> java.io.IOException
+pharmacy.DeleteMedicineForm --|> pharmacy.JFrame
+pharmacy.MedicalDevice ..> java.lang.Override
+pharmacy.MedicalDevice --|> pharmacy.Medicamo
+pharmacy.MyFirstForm ..> java.lang.SuppressWarnings
+pharmacy.MyFirstForm --|> javax.swing.JFrame
+pharmacy.OintmentMedcine --|> pharmacy.Medicamo
+pharmacy.Pharmacy ..> java.util.ArrayList
+pharmacy.SyrupMedicine ..> java.lang.Override
+pharmacy.SyrupMedicine --|> pharmacy.Medicamo
+pharmacy.TabelMedicine ..> java.lang.Override
+pharmacy.TabelMedicine --|> pharmacy.Medicamo
+pharmacy.search ..> java.lang.SuppressWarnings
+pharmacy.search --|> javax.swing.JFrame
+@enduml

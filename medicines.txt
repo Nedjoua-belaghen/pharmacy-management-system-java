@@ -1,0 +1,362 @@
+ID:1
+Name: paracetamol
+Price: 125.0 DA
+Expiration: 2028
+Number of Pills: 1
+ID:2
+Name: Ibuprofen
+Price: 150.0 DA
+Expiration: 2029
+Number of Pills: 2
+ID:3
+Name: Aspirin
+Price: 100.0 DA
+Expiration: 2027
+Number of Pills: 1
+ID:4
+Name: Amoxicillin
+Price: 200.0 DA
+Expiration: 2026
+Number of Pills: 1
+ID:5
+Name: Metformin
+Price: 180.0 DA
+Expiration: 2030
+Number of Pills: 1
+ID:6
+Name: Ciprofloxacin
+Price: 220.0 DA
+Expiration: 2028
+Number of Pills: 1
+ID:7
+Name: Azithromycin
+Price: 250.0 DA
+Expiration: 2029
+Number of Pills: 1
+ID:8
+Name: Omeprazole
+Price: 130.0 DA
+Expiration: 2031
+Number of Pills: 1
+ID:9
+Name: Loratadine
+Price: 140.0 DA
+Expiration: 2027
+Number of Pills: 1
+ID:10
+Name: Clindamycin
+Price: 210.0 DA
+Expiration: 2028
+Number of Pills: 1
+ID:11
+Name: Levothyroxine
+Price: 190.0 DA
+Expiration: 2029
+Number of Pills: 1
+ID:12
+Name: Simvastatin
+Price: 175.0 DA
+Expiration: 2030
+Number of Pills: 1
+ID:13
+Name: Hydrochlorothiazide
+Price: 160.0 DA
+Expiration: 2027
+Number of Pills: 1
+ID:14
+Name: Furosemide
+Price: 155.0 DA
+Expiration: 2028
+Number of Pills: 1
+ID:15
+Name: Prednisone
+Price: 165.0 DA
+Expiration: 2029
+Number of Pills: 1
+ID:16
+Name: Clopidogrel
+Price: 185.0 DA
+Expiration: 2030
+Number of Pills: 1
+ID:17
+Name: Vitamin C Syrup
+Price: 3976.0 DA
+Expiration: 2029
+SizeMl: 120.0 ML
+
+ID:18
+Name: Cough Syrup
+Price: 150.0 DA
+Expiration: 2028
+SizeMl: 100.0 ML
+
+ID:19
+Name: Paracetamol Syrup
+Price: 160.0 DA
+Expiration: 2030
+SizeMl: 110.0 ML
+
+ID:20
+Name: Antacid Syrup
+Price: 140.0 DA
+Expiration: 2027
+SizeMl: 90.0 ML
+
+ID:21
+Name: Vitamin D Syrup
+Price: 200.0 DA
+Expiration: 2031
+SizeMl: 120.0 ML
+
+ID:22
+Name: Iron Syrup
+Price: 180.0 DA
+Expiration: 2029
+SizeMl: 115.0 ML
+
+ID:23
+Name: Antihistamine Syrup
+Price: 190.0 DA
+Expiration: 2028
+SizeMl: 110.0 ML
+
+ID:24
+Name: Probiotic Syrup
+Price: 175.0 DA
+Expiration: 2030
+SizeMl: 100.0 ML
+
+ID:25
+Name: Multivitamin Syrup
+Price: 210.0 DA
+Expiration: 2027
+SizeMl: 120.0 ML
+
+ID:26
+Name: Cough Relief Syrup
+Price: 160.0 DA
+Expiration: 2029
+SizeMl: 105.0 ML
+
+ID:27
+Name: Cold Syrup
+Price: 170.0 DA
+Expiration: 2031
+SizeMl: 110.0 ML
+
+ID:28
+Name: Digestive Syrup
+Price: 150.0 DA
+Expiration: 2028
+SizeMl: 100.0 ML
+
+ID:29
+Name: Vitamin B12 Syrup
+Price: 195.0 DA
+Expiration: 2030
+SizeMl: 115.0 ML
+
+ID:30
+Name: Herbal Syrup
+Price: 180.0 DA
+Expiration: 2027
+SizeMl: 120.0 ML
+
+ID:31
+Name: Lactose-Free Syrup
+Price: 170.0 DA
+Expiration: 2029
+SizeMl: 110.0 ML
+
+ID:32
+Name: Calcium Syrup
+Price: 200.0 DA
+Expiration: 2031
+SizeMl: 120.0 ML
+
+ID:33
+Name: Skin Ointment
+Price: 2000.0 DA
+Expiration: 2028
+weightG: 40.0 g
+
+ID:34
+Name: Antibiotic Ointment
+Price: 210.0 DA
+Expiration: 2029
+weightG: 30.0 g
+
+ID:35
+Name: Hydrocortisone Ointment
+Price: 220.0 DA
+Expiration: 2030
+weightG: 35.0 g
+
+ID:36
+Name: Aloe Vera Ointment
+Price: 180.0 DA
+Expiration: 2027
+weightG: 25.0 g
+
+ID:37
+Name: Anti-fungal Ointment
+Price: 200.0 DA
+Expiration: 2028
+weightG: 30.0 g
+
+ID:38
+Name: Moisturizing Ointment
+Price: 190.0 DA
+Expiration: 2029
+weightG: 40.0 g
+
+ID:39
+Name: Pain Relief Ointment
+Price: 230.0 DA
+Expiration: 2030
+weightG: 35.0 g
+
+ID:40
+Name: Burn Ointment
+Price: 210.0 DA
+Expiration: 2027
+weightG: 30.0 g
+
+ID:41
+Name: Anti-inflammatory Ointment
+Price: 220.0 DA
+Expiration: 2028
+weightG: 35.0 g
+
+ID:42
+Name: Herbal Ointment
+Price: 195.0 DA
+Expiration: 2029
+weightG: 25.0 g
+
+ID:43
+Name: Scar Ointment
+Price: 200.0 DA
+Expiration: 2030
+weightG: 40.0 g
+
+ID:44
+Name: Antiseptic Ointment
+Price: 180.0 DA
+Expiration: 2027
+weightG: 30.0 g
+
+ID:45
+Name: Eczema Ointment
+Price: 210.0 DA
+Expiration: 2028
+weightG: 35.0 g
+
+ID:46
+Name: Psoriasis Ointment
+Price: 220.0 DA
+Expiration: 2029
+weightG: 40.0 g
+
+ID:47
+Name: Cold Sore Ointment
+Price: 200.0 DA
+Expiration: 2030
+weightG: 30.0 g
+
+ID:48
+Name: Antibiotic Cream
+Price: 230.0 DA
+Expiration: 2031
+weightG: 35.0 g
+
+ID:49
+Name: Thermometer
+Price: 2300.0 DA
+Expiration: 2030
+Function: Temperature Measurement
+brand : BrandX
+ID:50
+Name: Blood Pressure Monitor
+Price: 5000.0 DA
+Expiration: 2031
+Function: Blood Pressure Measurement
+brand : BrandA
+ID:51
+Name: Glucometer
+Price: 1500.0 DA
+Expiration: 2029
+Function: Blood Sugar Measurement
+brand : BrandB
+ID:52
+Name: Oximeter
+Price: 800.0 DA
+Expiration: 2028
+Function: Oxygen Saturation Measurement
+brand : BrandC
+ID:53
+Name: Stethoscope
+Price: 1200.0 DA
+Expiration: 2030
+Function: Heart and Lung Listening
+brand : BrandD
+ID:54
+Name: Nebulizer
+Price: 2500.0 DA
+Expiration: 2029
+Function: Respiratory Treatment
+brand : BrandE
+ID:55
+Name: Sphygmomanometer
+Price: 2000.0 DA
+Expiration: 2031
+Function: Blood Pressure Measurement
+brand : BrandF
+ID:56
+Name: Infrared Thermometer
+Price: 2200.0 DA
+Expiration: 2028
+Function: Temperature Measurement
+brand : BrandG
+ID:57
+Name: Medical Scale
+Price: 3000.0 DA
+Expiration: 2029
+Function: Weight Measurement
+brand : BrandH
+ID:58
+Name: ECG Machine
+Price: 15000.0 DA
+Expiration: 2030
+Function: Heart Activity Monitoring
+brand : BrandI
+ID:59
+Name: Pulse Oximeter
+Price: 900.0 DA
+Expiration: 2028
+Function: Oxygen Saturation
+brand : BrandJ
+ID:60
+Name: Therapy Laser
+Price: 8000.0 DA
+Expiration: 2029
+Function: Skin Treatment
+brand : BrandK
+ID:61
+Name: Hearing Aid
+Price: 12000.0 DA
+Expiration: 2030
+Function: Hearing Assistance
+brand : BrandL
+ID:62
+Name: CPAP Machine
+Price: 25000.0 DA
+Expiration: 2031
+Function: Sleep Apnea Treatment
+brand : BrandM
+ID:63
+Name: Therapeutic Ultrasound
+Price: 18000.0 DA
+Expiration: 2028
+Function: Physical Therapy
+brand : BrandN
